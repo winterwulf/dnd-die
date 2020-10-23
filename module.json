@@ -1,0 +1,16 @@
+{
+  "name": "dnd-die",
+  "title": "DnD die",
+  "description": "Change your dice with DnD logo for Foundry VTT",
+  "author": "winterwulf",
+  "version": "0.0.0",
+  "minimumCoreVersion": "0.6.0",
+  "compatibleCoreVersion": "0.6.6",
+  "esmodules": [ "scripts/dicefinder.js"],
+  "scripts": [
+    "scripts/dnd-die.js"
+  ],
+  "url": "https://github.com/winterwulf/dnd-die",
+  "manifest": "",
+  "download": ""
+}
